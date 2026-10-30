@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+data/*
+!data/.gitkeep
+outputs/*.pkl
+.DS_Store
+outputs/*.duckdb
